@@ -1,2 +1,2 @@
-# azure-test
-azure test repo
+# test
+product test repo
